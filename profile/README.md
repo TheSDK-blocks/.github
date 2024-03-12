@@ -6,5 +6,3 @@ Any member of that space can invite new member.
 Zulip
 
 ![Alt text](https://github.com/TheSystemDevelopmentKit/.github/blob/main/profile/zulip-icon-128x128.png?raw=true)
-
-
